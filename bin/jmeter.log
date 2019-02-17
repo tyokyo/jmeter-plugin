@@ -1,0 +1,58 @@
+2019-02-16 01:23:31,611 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-02-16 01:23:31,671 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-02-16 01:23:31,673 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-02-16 01:23:31,684 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-02-16 01:23:31,684 INFO o.a.j.JMeter: Version 4.0 r1823414
+2019-02-16 01:23:31,684 INFO o.a.j.JMeter: java.version=1.8.0_121
+2019-02-16 01:23:31,685 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-02-16 01:23:31,685 INFO o.a.j.JMeter: os.name=Windows 7
+2019-02-16 01:23:31,685 INFO o.a.j.JMeter: os.arch=amd64
+2019-02-16 01:23:31,685 INFO o.a.j.JMeter: os.version=6.1
+2019-02-16 01:23:31,685 INFO o.a.j.JMeter: file.encoding=GBK
+2019-02-16 01:23:31,686 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-02-16 01:23:31,686 INFO o.a.j.JMeter: Available Processors =4
+2019-02-16 01:23:31,692 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-02-16 01:23:31,693 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-02-16 01:23:31,693 INFO o.a.j.JMeter: JMeterHome=E:\software\Jmeter\apache-jmeter-4.0
+2019-02-16 01:23:31,693 INFO o.a.j.JMeter: user.dir  =E:\software\Jmeter\apache-jmeter-4.0\bin
+2019-02-16 01:23:31,695 INFO o.a.j.JMeter: PWD       =E:\software\Jmeter\apache-jmeter-4.0\bin
+2019-02-16 01:23:31,696 INFO o.a.j.JMeter: IP: 192.168.1.100 Name: SKY-20180316NPH FullName: SKY-20180316NPH
+2019-02-16 01:23:32,016 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-02-16 01:23:32,041 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.sun.java.swing.plaf.windows.WindowsLookAndFeel [Darcula]
+2019-02-16 01:23:32,041 INFO o.a.j.JMeter: Setting LAF to: com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2019-02-16 01:23:32,063 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-02-16 01:23:34,556 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-02-16 01:23:34,556 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-02-16 01:23:36,766 INFO o.j.r.JARSourceHTTP: Found cached repo
+2019-02-16 01:23:37,081 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, blazemeter-debugger=0.6, jpgc-sense=3.5, jpgc-functions=2.1, jpgc-casutg=2.7, jpgc-graphs-dist=2.0, jpgc-dummy=0.2, jpgc-ffw=2.0, jpgc-httpraw=0.1, jpgc-sts=2.4, bzm-http2=1.4, jpgc-fifo=0.2, jpgc-json=2.7, jpgc-graphs-vs=2.0, kafkameter=0.2.0, mqtt-sampler=0.0.1-SNAPSHOT, bzm-parallel=0.9, jpgc-perfmon=2.1, jpgc-plugins-manager=1.3, bzm-random-csv=0.6, ssh-sampler=1.1.1-SNAPSHOT, tilln-sshmon=1.1, jpgc-tst=2.5, jpgc-udp=0.4, jpgc-csvars=0.1, jpgc-wsc=0.7, jpgc-xmpp=1.5.1, jmeter-core=4.0, jmeter-ftp=4.0, jmeter-http=4.0, jmeter-jdbc=4.0, jmeter-jms=4.0, jmeter-junit=4.0, jmeter-java=4.0, jmeter-ldap=4.0, jmeter-mail=4.0, jmeter-mongodb=4.0, jmeter-native=4.0, jmeter-tcp=4.0, jmeter-components=4.0, jpgc-standard=2.0]
+2019-02-16 01:23:38,599 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-16 01:23:38,601 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-16 01:23:38,601 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-16 01:23:38,602 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-16 01:23:38,602 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-02-16 01:23:38,603 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-02-16 01:23:38,791 WARN o.a.j.u.JMeterUtils: no icon for toolbar/19x19arrow-right-3.png
+2019-02-16 01:23:38,804 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-02-16 01:23:38,804 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-02-16 01:23:38,804 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-02-16 01:23:38,805 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-02-16 01:23:41,935 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-02-16 01:23:41,936 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file E:\software\Jmeter\apache-jmeter-4.0\bin\proxyserver.jks
+2019-02-16 01:23:42,259 INFO o.a.j.s.FileServer: Default base='E:\software\Jmeter\apache-jmeter-4.0\bin'
+2019-02-16 01:23:42,503 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_qos]
+2019-02-16 01:23:42,504 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_most_once]
+2019-02-16 01:23:42,504 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_least_once]
+2019-02-16 01:23:42,506 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_exactly_once]
+2019-02-16 01:23:42,506 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_client_types]
+2019-02-16 01:23:42,507 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_blocking_client]
+2019-02-16 01:23:42,507 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_async_client]
+2019-02-16 01:23:42,508 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_message_input_type]
+2019-02-16 01:23:42,508 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_message_input_type_text]
+2019-02-16 01:23:42,509 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_message_input_type_file]
+2019-02-16 01:23:42,566 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_qos]
+2019-02-16 01:23:42,566 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_most_once]
+2019-02-16 01:23:42,567 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_at_least_once]
+2019-02-16 01:23:42,567 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_exactly_once]
+2019-02-16 01:23:42,567 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_client_types]
+2019-02-16 01:23:42,568 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_blocking_client]
+2019-02-16 01:23:42,569 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [mqtt_async_client]
